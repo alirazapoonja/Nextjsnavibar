@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+h1{
+  color: red;
+  background-color: aqua;
+  text-align: center;
+  }
+  h2{
+    color: black;
+    text-align: center;
+    }
+
+  body{
+    background-color: blanchedalmond;
+
+  }
+  img{
+    margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #dddddd;
+  }
+  li {
+    display: inline;
+  }
+
+  p{
+  text-align: center;
+  }
+
+  a {
+    display: block;
+    padding: 12px;
+    display: inline;
+  }
+ 
